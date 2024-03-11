@@ -10,7 +10,7 @@
  
  🔭 I’m Currently pursuing a Bachelor's degree in Computer Science at [UFPE](https://portal.cin.ufpe.br/)
  
- 🌱 I’m currently Mastering **Python, Django, Flask and FastAPI**
+ 🌱 Mastering **Python, Django, Flask and FastAPI**
 
 
 💬 I speak **Portuguese(Fluently)** and **English(Advanced)**
@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,linux,git,go,python,django,flask,fastapi,sqlite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=github,git,go,python,django,flask,fastapi,sqlite,mongodb" />
     <img src="https://skillicons.dev/icons?i=html,css,vscode,windows,linux" /><br>
 </div>
 
