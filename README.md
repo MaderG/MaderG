@@ -10,7 +10,7 @@
  
  🔭 I’m Currently pursuing a Bachelor's degree in Computer Science at [UFPE](https://portal.cin.ufpe.br/)
  
- 🌱 Mastering **Python and its Frameworks (Django, Flask and FastAPI)**
+ 🌱 Mastering **NodeJS and React**
 
 
 💬 I speak **Portuguese(Fluently)** and **English(Advanced)**
